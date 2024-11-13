@@ -1,3 +1,6 @@
+NAMA : Muhammad Ichwan Astori
+NIM  : 2205101032
+
 # Semantic_HTML
 Latihan Praktikum Semantic_HTML 
 
